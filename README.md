@@ -1,2 +1,0 @@
-# ThesaurusOD
-A thesaurus app.
